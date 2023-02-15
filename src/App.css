@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.kakaoBtn {
+  margin: auto;
+  background-color: rgb(254, 229, 17);
+  border-radius: 0.5rem;
+  border-width: 0;
+}
+.kakaoBtn>img {
+  align-items: center;
+  vertical-align: middle;
+  width: 70%;
+  margin: 0.1rem 2rem;
+}
